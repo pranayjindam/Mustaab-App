@@ -1,0 +1,6 @@
+﻿<resources xmlns:tools="http://schemas.android.com/tools">
+	<style name="Maui.SplashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+		<!-- Set plain white background -->
+		<item name="android:windowBackground">@android:color/white</item>
+	</style>
+</resources>
